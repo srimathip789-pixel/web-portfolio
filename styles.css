@@ -1,0 +1,180 @@
+:root {
+  --header-height: 70px; /* adjust to match your header */
+  --panel-bg: #E0F7FF;   /* light skyblue */
+  --panel-text: #012a36;
+  --accent: #7FD8FF;
+}
+
+/* Skills top-nav (sticky after header) */
+.skills-nav {
+  position: sticky;
+  top: var(--header-height);
+  z-index: 60;
+  background: var(--panel-bg);
+  box-shadow: 0 6px 18px rgba(2,40,50,0.06);
+  border-bottom: 1px solid rgba(1,42,54,0.06);
+  padding: 0.5rem 0;
+}
+.skills-nav__inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+.skills-nav__list {
+  display: flex;
+  gap: 0.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.skills-nav__list::-webkit-scrollbar { height: 8px; }
+.skills-nav__item { flex: 0 0 auto; }
+.skills-nav__link {
+  display: inline-block;
+  padding: 0.5rem 0.9rem;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--panel-text);
+  text-decoration: none;
+  font-weight: 600;
+  border: 1px solid transparent;
+  transition: background 180ms, transform 120ms, border-color 180ms;
+}
+.skills-nav__link:hover,
+.skills-nav__link:focus {
+  background: var(--accent);
+  transform: translateY(-2px);
+  outline: none;
+}
+.skills-nav__link--active {
+  background: linear-gradient(90deg, rgba(127,216,255,0.14), rgba(198,240,255,0.12));
+  border-color: rgba(1,42,54,0.08);
+  box-shadow: 0 6px 14px rgba(1,42,54,0.04);
+}
+
+/* Improve skill subsection layout (cards / accordion) */
+.skill-section {
+  margin: 1.25rem 0;
+  background: rgba(224,247,255,0.4);
+  border-radius: 12px;
+  padding: 1rem;
+  border: 1px solid rgba(1,42,54,0.04);
+}
+.skill-section h2, .skill-section h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  color: var(--panel-text);
+}
+
+/* Skill item accordion */
+.skill-item {
+  border-radius: 8px;
+  margin-bottom: 0.6rem;
+  overflow: hidden;
+  background: white;
+  border: 1px solid rgba(1,42,54,0.04);
+}
+.skill-item__title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.7rem 0.9rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+.skill-item__details {
+  padding: 0 0.9rem 0.9rem 0.9rem;
+  display: none;
+  color: #234;
+  font-size: 0.95rem;
+}
+/* visible state */
+.skill-item.is-open .skill-item__details { display: block; }
+.skill-item.is-open .skill-item__title { background: rgba(127,216,255,0.06); }
+
+/* Skills chips + panel improvements */
+.skill-section {
+  padding: 1.0rem;
+  background: rgba(224,247,255,0.6); /* light skyblue panel */
+  border-radius: 12px;
+  border: 1px solid rgba(1,42,54,0.05);
+  box-shadow: 0 8px 20px rgba(2,40,50,0.04);
+  margin-bottom: 1.25rem;
+}
+
+.skill-section h2 {
+  margin: 0 0 0.75rem;
+  color: var(--panel-text, #012a36);
+}
+
+/* Chip list */
+.skill-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.skill-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #ffffff;
+  color: var(--panel-text, #012a36);
+  padding: 0.45rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid rgba(1,42,54,0.06);
+  font-weight: 600;
+  font-size: 0.95rem;
+  box-shadow: 0 6px 12px rgba(2,40,50,0.03);
+  white-space: nowrap;
+}
+
+/* Ensure long labels don't overflow the card */
+.skill-section, .skill-list, .skill-tag { max-width: 100%; word-break: break-word; }
+
+/* Provide keyboard focus */
+.skill-tag:focus {
+  outline: 3px solid rgba(127,216,255,0.28);
+  outline-offset: 2px;
+}
+
+/* Responsive tweaks */
+@media (max-width: 640px) {
+  .skill-tag { font-size: 0.9rem; padding: 0.35rem 0.6rem; }
+  .skill-list { gap: 0.45rem; }
+}
+
+/* General panel/card/section styling for a modern portfolio */
+.panel,
+.card,
+.section,
+.portfolio-panel,
+.portfolio-card {
+  background-color: var(--panel-bg) !important;
+  color: var(--panel-text);
+  border-radius: 12px;
+  border: 1px solid rgba(0,0,0,0.04);
+  box-shadow: 0 8px 20px rgba(2,40,50,0.06);
+  padding: 1.25rem;
+}
+
+/* Keep card bodies transparent if nested styles exist */
+.card .card-body,
+.panel .panel-body {
+  background: transparent;
+}
+
+/* Buttons/links tuned for contrast */
+a, .btn {
+  color: var(--panel-text);
+}
+.btn-primary {
+  background-color: #7FD8FF;
+  border-color: #66CFFF;
+  color: var(--panel-text);
+}

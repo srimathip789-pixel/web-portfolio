@@ -1,0 +1,176 @@
+{
+  "personalInfo": {
+    "name": "M. SRI MATHI",
+    "title": "Full Stack Software Engineer",
+    "location": "Manama, Bahrain",
+    "email": "srimathip789@gmail.com",
+    "phone": "+973 35102870",
+    "linkedin": "https://linkedin.com/in/srimathip789",
+    "github": ""
+  },
+  "professionalSummary": "Versatile and detail-oriented Software Engineer with 4+ years of experience in full-stack development and software testing. Proven expertise in designing dynamic applications, streamlining QA processes, and contributing to successful project delivery. Seeking opportunities in Bahrain to drive innovation and growth in collaborative development environments.",
+  "workExperience": [
+    {
+      "jobTitle": "Full Stack Engineer",
+      "company": "Service Target",
+      "location": "Bozeman, US (Remote - India)",
+      "startDate": "2023-11-01",
+      "endDate": "Present",
+      "responsibilities": [
+        "Developed dynamic UI components using modern frameworks to enhance user experience.",
+        "Integrated helpdesk systems and optimized user workflows for improved efficiency.",
+        "Collaborated across engineering and product teams to deliver scalable solutions and maintain code quality."
+      ]
+    },
+    {
+      "jobTitle": "Junior Software Engineer",
+      "company": "Quadruple Automation Pvt Ltd",
+      "location": "Chennai, India",
+      "startDate": "2022-02-01",
+      "endDate": "2023-10-31",
+      "responsibilities": [
+        "Led development of modules for enterprise automation systems.",
+        "Coordinated with QA teams to ensure comprehensive test coverage and timely defect resolution.",
+        "Built a car component management system improving data synchronization and UI design."
+      ]
+    },
+    {
+      "jobTitle": "QA Trainee",
+      "company": "United Techno Solutions",
+      "location": "Chennai, India",
+      "startDate": "2021-10-01",
+      "endDate": "2021-12-31",
+      "responsibilities": [
+        "Executed manual and automation test cases for web applications.",
+        "Logged defects and collaborated within agile sprint cycles.",
+        "Identified critical bugs pre-launch, improving mobile and desktop UI/UX."
+      ]
+    },
+    {
+      "jobTitle": "Freelance Developer",
+      "company": "Freelance",
+      "location": "Chennai, India",
+      "startDate": "2021-04-01",
+      "endDate": "2021-09-30",
+      "responsibilities": [
+        "Developed full-stack Python applications for financial transaction automation.",
+        "Created user interfaces for vending machine applications using HTML and CSS."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Knowledge Hub",
+      "description": "Designed front-end modules with streamlined support ticket flow integration.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "gif": "assets/knowledge-hub.png"
+    },
+    {
+      "title": "Recipe Workflow (Mahindra)",
+      "description": "Developed car component management system; improved UX/UI and data synchronization.",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "gif": "assets/recipe-workflow.png"
+    },
+    {
+      "title": "Chit Fund Software",
+      "description": "Full‑stack development of a chit fund management system.",
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "SQL"
+      ],
+      "gif": "assets/chit-fund.png"
+    },
+    {
+      "title": "Python Automation for Financial Transactions",
+      "description": "Automated financial transaction workflows for clients.",
+      "technologies": [
+        "Python"
+      ],
+      "gif": "assets/python-automation.png"
+    },
+    {
+      "title": "E-Commerce QA",
+      "description": "Executed testing cycles and identified critical issues pre-launch.",
+      "technologies": [
+        "Selenium",
+        "Manual Testing",
+        "API Testing"
+      ],
+      "gif": "assets/ecommerce-qa.png"
+    }
+  ],
+  "technicalSkills": {
+    "programmingLanguages": [
+      "TypeScript",
+      "JavaScript",
+      "Python",
+      "Java",
+      "C/C++",
+      "HTML",
+      "CSS"
+    ],
+    "testingAndQA": [
+      "Manual Testing",
+      "Automation Testing",
+      "Functional Testing",
+      "Integration Testing",
+      "API Testing"
+    ],
+    "toolsAndPlatforms": [
+      "Selenium",
+      "JIRA",
+      "Bugzilla",
+      "Docker",
+      "Agile",
+      "Cloudflare"
+    ],
+    "databases": [
+      "MySQL",
+      "SQLite",
+      "Oracle",
+      "SQL Server"
+    ],
+    "other": [
+      "API Development",
+      "Responsive Design",
+      "Cloud Platforms",
+      "FTPC/FTPS(Rockwell Automation Software)"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Computer Science",
+      "institution": "Syed Ammal College of Engineering",
+      "graduationYear": 2016,
+      "grade": "71.2%"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Selenium Certification",
+      "issuer": "QSpiders",
+      "date": "2019-04"
+    }
+  ],
+  "personalInformation": {
+    "dateOfBirth": "1995-06-17",
+    "nationality": "Indian",
+    "maritalStatus": "Married",
+    "passport": "M8862007",
+    "cpr": "950657727",
+    "languages": [
+      "English",
+      "Tamil"
+    ]
+  }
+}
