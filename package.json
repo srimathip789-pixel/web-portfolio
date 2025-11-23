@@ -1,0 +1,21 @@
+{
+  "name": "web-portfolio",
+  "version": "1.0.0",
+  "description": "A personal web portfolio showcasing projects and skills.",
+  "main": "src/scripts/main.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w --outDir src/scripts",
+    "dev": "npx live-server src --port=5173 --entry-file=src/index.html",
+    "start": "npm run dev"
+  },
+  "author": "M. SRI MATHI",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "live-server": "^1.2.1"
+  }
+}
