@@ -83,6 +83,39 @@
       "gif": "assets/project-placeholder.png"
     },
     {
+      "title": "Graphic Design: Women Shaping IT Event",
+      "description": "Professional event flyer design for the ITEF Bahrain Chapter's 'Women Shaping IT and Communities' event.",
+      "technologies": [
+        "Graphic Design",
+        "Branding",
+        "Event Marketing"
+      ],
+      "link": "assets/itef-women-event.png",
+      "gif": "assets/itef-women-event.png"
+    },
+    {
+      "title": "Corporate Identity: Raja Bhai Logo",
+      "description": "Official logo design for Raja Bhai Real Estate Services, representing luxury, trust, and property excellence.",
+      "technologies": [
+        "Logo Design",
+        "Brand Identity",
+        "Corporate Branding"
+      ],
+      "link": "assets/logo-design.jpeg",
+      "gif": "assets/logo-design.jpeg"
+    },
+    {
+      "title": "Commercial Media: Signboard & Flyer",
+      "description": "Custom signboard and marketing flyer samples designed for real estate and construction business visibility.",
+      "technologies": [
+        "Signboard Design",
+        "Flyer Design",
+        "Outdoor Media"
+      ],
+      "link": "assets/signboard-design.jpg",
+      "gif": "assets/flyer-sample.jpeg"
+    },
+    {
       "title": "Knowledge Hub",
       "description": "Designed front-end modules with streamlined support ticket flow integration.",
       "technologies": [
