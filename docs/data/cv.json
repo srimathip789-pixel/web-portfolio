@@ -91,7 +91,8 @@
         "JavaScript",
         "TypeScript"
       ],
-      "gif": "assets/knowledge-hub.png"
+      "gif": "assets/knowledge-hub.png",
+      "link": "https://github.com/Srimathi995"
     },
     {
       "title": "Recipe Workflow (Mahindra)",
@@ -101,7 +102,8 @@
         "HTML",
         "CSS"
       ],
-      "gif": "assets/recipe-workflow.png"
+      "gif": "assets/recipe-workflow.png",
+      "link": "https://github.com/Srimathi995"
     },
     {
       "title": "Chit Fund Software",
@@ -111,7 +113,8 @@
         "JavaScript",
         "SQL"
       ],
-      "gif": "assets/chit-fund.png"
+      "gif": "assets/chit-fund.png",
+      "link": "https://github.com/Srimathi995"
     },
     {
       "title": "Python Automation for Financial Transactions",
@@ -119,7 +122,8 @@
       "technologies": [
         "Python"
       ],
-      "gif": "assets/python-automation.png"
+      "gif": "assets/python-automation.png",
+      "link": "https://github.com/Srimathi995"
     },
     {
       "title": "E-Commerce QA",
@@ -129,7 +133,8 @@
         "Manual Testing",
         "API Testing"
       ],
-      "gif": "assets/ecommerce-qa.png"
+      "gif": "assets/ecommerce-qa.png",
+      "link": "https://github.com/Srimathi995"
     }
   ],
   "technicalSkills": {
