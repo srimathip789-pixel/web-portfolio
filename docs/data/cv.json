@@ -60,6 +60,41 @@
   ],
   "projects": [
     {
+      "title": "Raja Bhai Real Estate Services WLL",
+      "description": "A premium property and facility management platform for the Kingdom of Bahrain, featuring RERA-certified management tools.",
+      "technologies": [
+        "Vite",
+        "JavaScript",
+        "CSS3",
+        "SEO Optimization"
+      ],
+      "link": "https://raja-bhai-real-estate.vercel.app",
+      "gif": "assets/project-placeholder.png"
+    },
+    {
+      "title": "NMS Quiz Application",
+      "description": "A comprehensive quiz platform designed for interactive educational assessments and real-time performance tracking.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "TailwindCSS"
+      ],
+      "link": "https://nms-xcel.app",
+      "gif": "assets/project-placeholder.png"
+    },
+    {
+      "title": "ITEF Bahrain Quiz",
+      "description": "Digital quiz competition platform for the International Tamil Engineer Forum Bahrain Chapter.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Vite"
+      ],
+      "link": "https://itef-bahrain-quiz.vercel.app",
+      "gif": "assets/project-placeholder.png"
+    },
+    {
       "title": "Knowledge Hub",
       "description": "Designed front-end modules with streamlined support ticket flow integration.",
       "technologies": [
