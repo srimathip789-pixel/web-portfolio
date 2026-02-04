@@ -72,18 +72,6 @@
       "gif": "assets/project-placeholder.png"
     },
     {
-      "title": "NMS Quiz Application",
-      "description": "A comprehensive quiz platform designed for interactive educational assessments and real-time performance tracking.",
-      "technologies": [
-        "React",
-        "TypeScript",
-        "Vite",
-        "TailwindCSS"
-      ],
-      "link": "https://nms-xcel.app",
-      "gif": "assets/project-placeholder.png"
-    },
-    {
       "title": "ITEF Bahrain Quiz",
       "description": "Digital quiz competition platform for the International Tamil Engineer Forum Bahrain Chapter.",
       "technologies": [
