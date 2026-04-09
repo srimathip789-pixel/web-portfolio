@@ -60,6 +60,38 @@
   ],
   "projects": [
     {
+      "title": "Shalini Clinic Website",
+      "description": "Developed a modern, responsive React and Tailwind CSS website for a medical clinic. Integrated live visitor tracking and local SEO optimizations.",
+      "technologies": [
+        "React",
+        "Tailwind CSS",
+        "Vite",
+        "JavaScript"
+      ],
+      "gif": "assets/shalini-clinic.png"
+    },
+    {
+      "title": "AV Schools Digital Portal",
+      "description": "Built a comprehensive, mobile-optimized educational portal with advanced UI and an integrated AI-powered help assistant.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "AI Integration"
+      ],
+      "gif": "assets/av-schools.png"
+    },
+    {
+      "title": "Remote Job Application Automation",
+      "description": "Engineered an automated script using Python and Playwright to filter and apply for remote IT jobs efficiently via email and WhatsApp.",
+      "technologies": [
+        "Python",
+        "Playwright",
+        "Web Automation"
+      ],
+      "gif": "assets/job-automation.png"
+    },
+    {
       "title": "Knowledge Hub",
       "description": "Designed front-end modules with streamlined support ticket flow integration.",
       "technologies": [
