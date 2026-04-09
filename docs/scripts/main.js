@@ -68,7 +68,7 @@ function createProjectCard(project) {
     return el;
 }
 async function loadCv() {
-    const res = await fetch('./data/cv.json');
+    const res = await fetch('./data/cv.json?t=' + new Date().getTime());
     const data = await res.json();
     loadProjectsFromData(data.projects);
     loadSkillsFromData(data.technicalSkills);
