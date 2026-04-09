@@ -68,7 +68,8 @@
         "Vite",
         "JavaScript"
       ],
-      "gif": "assets/shalini-clinic.png"
+      "gif": "assets/project-placeholder.png",
+      "link": "https://shalini-clinic.vercel.app"
     },
     {
       "title": "AV Schools Digital Portal",
@@ -79,7 +80,8 @@
         "JavaScript",
         "AI Integration"
       ],
-      "gif": "assets/av-schools.png"
+      "gif": "assets/project-placeholder.png",
+      "link": "https://avschool-paramakudi.vercel.app"
     },
     {
       "title": "Knowledge Hub",
