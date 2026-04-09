@@ -60,60 +60,36 @@
   ],
   "projects": [
     {
-      "title": "Raja Bhai Real Estate Services WLL",
-      "description": "A premium property and facility management platform for the Kingdom of Bahrain, featuring RERA-certified management tools.",
-      "technologies": [
-        "Vite",
-        "JavaScript",
-        "CSS3",
-        "SEO Optimization"
-      ],
-      "link": "https://raja-bhai-real-estate.vercel.app",
-      "gif": "assets/project-placeholder.png"
-    },
-    {
-      "title": "ITEF Bahrain Quiz",
-      "description": "Digital quiz competition platform for the International Tamil Engineer Forum Bahrain Chapter.",
+      "title": "Shalini Clinic Website",
+      "description": "Developed a modern, responsive React and Tailwind CSS website for a medical clinic. Integrated live visitor tracking and local SEO optimizations.",
       "technologies": [
         "React",
-        "TypeScript",
-        "Vite"
+        "Tailwind CSS",
+        "Vite",
+        "JavaScript"
       ],
-      "link": "https://itef-bahrain-quiz.vercel.app",
-      "gif": "assets/project-placeholder.png"
+      "gif": "assets/shalini-clinic.png"
     },
     {
-      "title": "Graphic Design: Women Shaping IT Event",
-      "description": "Professional event flyer design for the ITEF Bahrain Chapter's 'Women Shaping IT and Communities' event.",
+      "title": "AV Schools Digital Portal",
+      "description": "Built a comprehensive, mobile-optimized educational portal with advanced UI and an integrated AI-powered help assistant.",
       "technologies": [
-        "Graphic Design",
-        "Branding",
-        "Event Marketing"
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "AI Integration"
       ],
-      "link": "assets/itef-women-event.png",
-      "gif": "assets/itef-women-event.png"
+      "gif": "assets/av-schools.png"
     },
     {
-      "title": "Corporate Identity: Raja Bhai Logo",
-      "description": "Official logo design for Raja Bhai Real Estate Services, representing luxury, trust, and property excellence.",
+      "title": "Remote Job Application Automation",
+      "description": "Engineered an automated script using Python and Playwright to filter and apply for remote IT jobs efficiently via email and WhatsApp.",
       "technologies": [
-        "Logo Design",
-        "Brand Identity",
-        "Corporate Branding"
+        "Python",
+        "Playwright",
+        "Web Automation"
       ],
-      "link": "assets/logo-design.jpeg",
-      "gif": "assets/logo-design.jpeg"
-    },
-    {
-      "title": "Commercial Media: Signboard & Flyer",
-      "description": "Custom signboard and marketing flyer samples designed for real estate and construction business visibility.",
-      "technologies": [
-        "Signboard Design",
-        "Flyer Design",
-        "Outdoor Media"
-      ],
-      "link": "assets/signboard-design.jpg",
-      "gif": "assets/flyer-sample.jpeg"
+      "gif": "assets/job-automation.png"
     },
     {
       "title": "Knowledge Hub",
@@ -124,8 +100,7 @@
         "JavaScript",
         "TypeScript"
       ],
-      "gif": "assets/knowledge-hub.png",
-      "link": "https://github.com/Srimathi995"
+      "gif": "assets/knowledge-hub.png"
     },
     {
       "title": "Recipe Workflow (Mahindra)",
@@ -135,8 +110,7 @@
         "HTML",
         "CSS"
       ],
-      "gif": "assets/recipe-workflow.png",
-      "link": "https://github.com/Srimathi995"
+      "gif": "assets/recipe-workflow.png"
     },
     {
       "title": "Chit Fund Software",
@@ -146,8 +120,7 @@
         "JavaScript",
         "SQL"
       ],
-      "gif": "assets/chit-fund.png",
-      "link": "https://github.com/Srimathi995"
+      "gif": "assets/chit-fund.png"
     },
     {
       "title": "Python Automation for Financial Transactions",
@@ -155,8 +128,7 @@
       "technologies": [
         "Python"
       ],
-      "gif": "assets/python-automation.png",
-      "link": "https://github.com/Srimathi995"
+      "gif": "assets/python-automation.png"
     },
     {
       "title": "E-Commerce QA",
@@ -166,8 +138,7 @@
         "Manual Testing",
         "API Testing"
       ],
-      "gif": "assets/ecommerce-qa.png",
-      "link": "https://github.com/Srimathi995"
+      "gif": "assets/ecommerce-qa.png"
     }
   ],
   "technicalSkills": {
