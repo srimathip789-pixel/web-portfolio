@@ -50,6 +50,7 @@ interface Project {
   technologies?: string[];
   link?: string;
   gif?: string;
+  featured?: boolean;
 }
 
 interface Experience {
@@ -108,16 +109,42 @@ function loadProjectsFromData(projects: Project[] = []) {
   const container = document.getElementById('projects');
   if (!container) return;
 
-  const list = document.createElement('div');
-  list.className = 'grid';
+  const featured = projects.filter(p => p.featured);
+  const more = projects.filter(p => !p.featured);
 
-  projects.forEach(p => {
-    const card = createProjectCard(p);
-    list.appendChild(card);
-  });
+  container.innerHTML = '<h2>Featured Projects</h2>';
 
-  container.innerHTML = '<h2>Projects</h2>';
-  container.appendChild(list);
+  const featuredGrid = document.createElement('div');
+  featuredGrid.className = 'grid';
+  featured.forEach(p => featuredGrid.appendChild(createProjectCard(p)));
+  container.appendChild(featuredGrid);
+
+  if (more.length > 0) {
+    const toggleWrap = document.createElement('div');
+    toggleWrap.style.textAlign = 'center';
+    toggleWrap.style.marginTop = '2.5rem';
+
+    const toggleBtn = document.createElement('button');
+    toggleBtn.textContent = `Show ${more.length} More Projects`;
+    toggleBtn.className = 'more-projects-toggle';
+
+    const moreGrid = document.createElement('div');
+    moreGrid.className = 'grid more-projects-grid';
+    moreGrid.style.display = 'none';
+    moreGrid.style.marginTop = '2rem';
+    more.forEach(p => moreGrid.appendChild(createProjectCard(p)));
+
+    let expanded = false;
+    toggleBtn.addEventListener('click', () => {
+      expanded = !expanded;
+      moreGrid.style.display = expanded ? 'grid' : 'none';
+      toggleBtn.textContent = expanded ? 'Show Less' : `Show ${more.length} More Projects`;
+    });
+
+    toggleWrap.appendChild(toggleBtn);
+    container.appendChild(toggleWrap);
+    container.appendChild(moreGrid);
+  }
 }
 
 function loadSkillsFromData(skills: any) {

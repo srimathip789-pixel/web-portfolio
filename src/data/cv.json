@@ -68,7 +68,8 @@
         "Security Testing",
         "JIRA"
       ],
-      "gif": "assets/project-placeholder.png"
+      "gif": "assets/project-placeholder.png",
+      "featured": true
     },
     {
       "title": "ITEF Bahrain Quiz Platform QA",
@@ -101,7 +102,8 @@
         "JavaScript"
       ],
       "gif": "assets/project-placeholder.png",
-      "link": "https://selva-hospital.vercel.app"
+      "link": "https://selva-hospital.vercel.app",
+      "featured": true
     },
     {
       "title": "Raja Bhai Real Estate",
@@ -201,7 +203,8 @@
         "Tailwind CSS"
       ],
       "gif": "assets/project-placeholder.png",
-      "link": "https://www.touchnfeelchiar.in/"
+      "link": "https://www.touchnfeelchiar.in/",
+      "featured": true
     },
     {
       "title": "Sri Muthalamman Jewellers",
@@ -212,7 +215,8 @@
         "JavaScript"
       ],
       "gif": "assets/project-placeholder.png",
-      "link": "https://www.sri-muthalamman-jewellers.in/"
+      "link": "https://www.sri-muthalamman-jewellers.in/",
+      "featured": true
     },
     {
       "title": "Abira Enterprise",
@@ -247,7 +251,8 @@
         "AI Integration"
       ],
       "gif": "assets/project-placeholder.png",
-      "link": "https://avschool-paramakudi.vercel.app"
+      "link": "https://avschool-paramakudi.vercel.app",
+      "featured": true
     },
     {
       "title": "Knowledge Hub",
