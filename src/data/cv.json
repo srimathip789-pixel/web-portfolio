@@ -60,6 +60,28 @@
   ],
   "projects": [
     {
+      "title": "Sri Muthalamman Jewellers",
+      "description": "Built a jewellery showroom website featuring live gold/silver rate display, a filterable product catalogue across multiple collections, and WhatsApp-based customer enquiries.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://www.sri-muthalamman-jewellers.in/"
+    },
+    {
+      "title": "Abira Enterprise",
+      "description": "Developed a single-page corporate website for a construction company in Bahrain, covering Home, About, Services, Projects and Contact, with SEO setup and deployment.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://abira-enterprises.in/"
+    },
+    {
       "title": "Shalini Clinic Website",
       "description": "Developed a modern, responsive React and Tailwind CSS website for a medical clinic. Integrated live visitor tracking and local SEO optimizations.",
       "technologies": [
