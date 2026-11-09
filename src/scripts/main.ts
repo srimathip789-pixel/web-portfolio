@@ -88,7 +88,7 @@ function createProjectCard(project: Project): HTMLElement {
       </div>
     </div>
 
-    <a href="${project.link ?? '#'}" class="project-link" target="_blank" rel="noopener">View Project</a>
+    ${project.link ? `<a href="${project.link}" class="project-link" target="_blank" rel="noopener">View Project</a>` : ''}
   `;
 
   return el;
