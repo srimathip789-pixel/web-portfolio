@@ -60,6 +60,28 @@
   ],
   "projects": [
     {
+      "title": "Financial Reconciliation QA Automation",
+      "description": "Built a 15+ scenario Playwright test automation suite for a financial reconciliation platform, covering many-to-many matching, cross-currency transactions, and custom mapping workflows. Identified and documented critical security and functional defects through systematic testing, with JIRA-ready bug reports.",
+      "technologies": [
+        "Playwright",
+        "JavaScript",
+        "Security Testing",
+        "JIRA"
+      ],
+      "gif": "assets/project-placeholder.png"
+    },
+    {
+      "title": "ITEF Bahrain Quiz Platform QA",
+      "description": "Developed a full Playwright end-to-end test suite covering quiz logic, leaderboard scoring, MCQ flows, and post-quiz UI for an interactive engineering quiz application.",
+      "technologies": [
+        "Playwright",
+        "TypeScript",
+        "E2E Testing"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://github.com/srimathip789-pixel/ITEF-Bahrain"
+    },
+    {
       "title": "V3Bridge",
       "description": "Built a remote-hiring platform connecting US/UK companies with pre-screened remote IT and tech professionals, including job posting and candidate listing pages.",
       "technologies": [
