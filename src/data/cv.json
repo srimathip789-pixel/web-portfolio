@@ -72,6 +72,56 @@
       "featured": true
     },
     {
+      "title": "Touch N Feel Chair Industry",
+      "description": "Built a product catalogue website for an office furniture manufacturer, featuring workstation and chair collections with a quote request system.",
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://www.touchnfeelchiar.in/",
+      "featured": true
+    },
+    {
+      "title": "Sri Muthalamman Jewellers",
+      "description": "Built a jewellery showroom website featuring live gold/silver rate display, a filterable product catalogue across multiple collections, and WhatsApp-based customer enquiries.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://www.sri-muthalamman-jewellers.in/",
+      "featured": true
+    },
+    {
+      "title": "Selva Hospital",
+      "description": "Built a multi-speciality hospital website featuring doctor profiles, health packages, and an appointment booking system.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://selva-hospital.vercel.app",
+      "featured": true
+    },
+    {
+      "title": "AV Schools Digital Portal",
+      "description": "Built a comprehensive, mobile-optimized educational portal with advanced UI and an integrated AI-powered help assistant.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "AI Integration"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://avschool-paramakudi.vercel.app",
+      "featured": true
+    },
+    {
       "title": "ITEF Bahrain Quiz Platform QA",
       "description": "Developed a full Playwright end-to-end test suite covering quiz logic, leaderboard scoring, MCQ flows, and post-quiz UI for an interactive engineering quiz application.",
       "technologies": [
@@ -92,18 +142,6 @@
       ],
       "gif": "assets/project-placeholder.png",
       "link": "https://v3bridgecom.vercel.app"
-    },
-    {
-      "title": "Selva Hospital",
-      "description": "Built a multi-speciality hospital website featuring doctor profiles, health packages, and an appointment booking system.",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ],
-      "gif": "assets/project-placeholder.png",
-      "link": "https://selva-hospital.vercel.app",
-      "featured": true
     },
     {
       "title": "Raja Bhai Real Estate",
@@ -194,31 +232,6 @@
       "link": "https://khalids-biryani-pitch.vercel.app"
     },
     {
-      "title": "Touch N Feel Chair Industry",
-      "description": "Built a product catalogue website for an office furniture manufacturer, featuring workstation and chair collections with a quote request system.",
-      "technologies": [
-        "Next.js",
-        "React",
-        "TypeScript",
-        "Tailwind CSS"
-      ],
-      "gif": "assets/project-placeholder.png",
-      "link": "https://www.touchnfeelchiar.in/",
-      "featured": true
-    },
-    {
-      "title": "Sri Muthalamman Jewellers",
-      "description": "Built a jewellery showroom website featuring live gold/silver rate display, a filterable product catalogue across multiple collections, and WhatsApp-based customer enquiries.",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ],
-      "gif": "assets/project-placeholder.png",
-      "link": "https://www.sri-muthalamman-jewellers.in/",
-      "featured": true
-    },
-    {
       "title": "Abira Enterprise",
       "description": "Developed a single-page corporate website for a construction company in Bahrain, covering Home, About, Services, Projects and Contact, with SEO setup and deployment.",
       "technologies": [
@@ -240,19 +253,6 @@
       ],
       "gif": "assets/project-placeholder.png",
       "link": "https://shalini-clinic.vercel.app"
-    },
-    {
-      "title": "AV Schools Digital Portal",
-      "description": "Built a comprehensive, mobile-optimized educational portal with advanced UI and an integrated AI-powered help assistant.",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "AI Integration"
-      ],
-      "gif": "assets/project-placeholder.png",
-      "link": "https://avschool-paramakudi.vercel.app",
-      "featured": true
     },
     {
       "title": "Knowledge Hub",
