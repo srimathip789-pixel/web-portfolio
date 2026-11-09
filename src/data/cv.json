@@ -60,6 +60,116 @@
   ],
   "projects": [
     {
+      "title": "V3Bridge",
+      "description": "Built a remote-hiring platform connecting US/UK companies with pre-screened remote IT and tech professionals, including job posting and candidate listing pages.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://v3bridgecom.vercel.app"
+    },
+    {
+      "title": "Selva Hospital",
+      "description": "Built a multi-speciality hospital website featuring doctor profiles, health packages, and an appointment booking system.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://selva-hospital.vercel.app"
+    },
+    {
+      "title": "Raja Bhai Real Estate",
+      "description": "Developed a real estate listing website for property showcases and client enquiries.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://raja-bhai-real-estate.vercel.app"
+    },
+    {
+      "title": "Pearl School Paramakudi",
+      "description": "Built a website for an educational trust focused on rural education outreach.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://pearl-school-paramakudi.vercel.app"
+    },
+    {
+      "title": "Rimonika Printers",
+      "description": "Developed a business website for a printing services provider showcasing products and services.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://rimonika-printers.vercel.app"
+    },
+    {
+      "title": "Luxe Boutique",
+      "description": "Built a fashion boutique website with a product showcase and modern responsive design.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://luxe-boutique-smoky.vercel.app"
+    },
+    {
+      "title": "V1Teach1",
+      "description": "Built a tutoring/teaching platform website connecting students with one-on-one instructors.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://v1teach1-web.vercel.app"
+    },
+    {
+      "title": "ITEF Bahrain Quiz",
+      "description": "Developed an interactive engineering quiz application for ITEF Bahrain.",
+      "technologies": [
+        "HTML",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://itef-bahrain-quiz.vercel.app"
+    },
+    {
+      "title": "Hospital Landing Page Demo",
+      "description": "Designed a reusable multi-speciality hospital landing page template with appointment booking and service highlights, used for client outreach demos.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://roja-hospital-demo.vercel.app"
+    },
+    {
+      "title": "Restaurant Landing Page Demo",
+      "description": "Designed a reusable restaurant landing page template with menu showcase and online ordering CTA, used for client outreach demos.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://khalids-biryani-pitch.vercel.app"
+    },
+    {
       "title": "Touch N Feel Chair Industry",
       "description": "Built a product catalogue website for an office furniture manufacturer, featuring workstation and chair collections with a quote request system.",
       "technologies": [
