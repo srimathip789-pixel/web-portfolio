@@ -60,6 +60,18 @@
   ],
   "projects": [
     {
+      "title": "Touch N Feel Chair Industry",
+      "description": "Built a product catalogue website for an office furniture manufacturer, featuring workstation and chair collections with a quote request system.",
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "gif": "assets/project-placeholder.png",
+      "link": "https://www.touchnfeelchiar.in/"
+    },
+    {
       "title": "Sri Muthalamman Jewellers",
       "description": "Built a jewellery showroom website featuring live gold/silver rate display, a filterable product catalogue across multiple collections, and WhatsApp-based customer enquiries.",
       "technologies": [
